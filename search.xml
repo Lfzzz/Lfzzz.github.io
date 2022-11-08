@@ -27,31 +27,6 @@
     
     
     <entry>
-      <title>啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意</title>
-      <link href="/posts/255e503c.html"/>
-      <url>/posts/255e503c.html</url>
-      
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 🕍Hexo </tag>
-            
-            <tag> 🌸Butterfly </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习</title>
       <link href="/posts/255e509c.html"/>
       <url>/posts/255e509c.html</url>
@@ -105,6 +80,31 @@
       <title>发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现</title>
       <link href="/posts/255e502c.html"/>
       <url>/posts/255e502c.html</url>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 🕍Hexo </tag>
+            
+            <tag> 🌸Butterfly </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意</title>
+      <link href="/posts/255e503c.html"/>
+      <url>/posts/255e503c.html</url>
       
       
       <categories>
@@ -199,6 +199,15 @@
       <title></title>
       <link href="/css/center-simple.css"/>
       <url>/css/center-simple.css</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/emailTemplate.html"/>
+      <url>/css/emailTemplate.html</url>
       
     </entry>
     
