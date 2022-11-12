@@ -102,7 +102,7 @@
     
     
     <entry>
-      <title>啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意</title>
+      <title>啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩</title>
       <link href="/posts/255e503c.html"/>
       <url>/posts/255e503c.html</url>
       
@@ -187,6 +187,15 @@
     
     
     <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -217,6 +226,15 @@
       <title></title>
       <link href="/css/footer.css"/>
       <url>/css/footer.css</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/countup.js"/>
+      <url>/js/countup.js</url>
       
     </entry>
     
