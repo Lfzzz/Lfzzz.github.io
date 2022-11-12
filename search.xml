@@ -232,6 +232,15 @@
     
     
     <entry>
+      <title>友情链接</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/js/countup.js"/>
       <url>/js/countup.js</url>
@@ -268,9 +277,9 @@
     
     
     <entry>
-      <title>友情链接</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
     </entry>
     
@@ -289,15 +298,6 @@
       <title></title>
       <link href="/navbar/nav_menu.js"/>
       <url>/navbar/nav_menu.js</url>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
       
     </entry>
     
