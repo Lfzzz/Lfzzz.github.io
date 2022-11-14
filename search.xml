@@ -11,7 +11,7 @@
       
       <categories>
           
-          <category> 教程 </category>
+          <category> 经验分享 </category>
           
       </categories>
       
@@ -27,73 +27,23 @@
     
     
     <entry>
-      <title>学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习学习</title>
-      <link href="/posts/255e509c.html"/>
-      <url>/posts/255e509c.html</url>
-      
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 🕍Hexo </tag>
-            
-            <tag> 🌸Butterfly </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索探索</title>
-      <link href="/posts/255e501c.html"/>
-      <url>/posts/255e501c.html</url>
-      
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 🕍Hexo </tag>
-            
-            <tag> 🌸Butterfly </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现发现</title>
+      <title>伴舟录屏软件(Electron开发)</title>
       <link href="/posts/255e502c.html"/>
       <url>/posts/255e502c.html</url>
       
       
       <categories>
           
-          <category> 教程 </category>
+          <category> 我的项目 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 🕍Hexo </tag>
+            <tag> ⚡Electron </tag>
             
-            <tag> 🌸Butterfly </tag>
+            <tag> 📁项目 </tag>
             
         </tags>
       
@@ -102,14 +52,14 @@
     
     
     <entry>
-      <title>啥玩意啥玩意啥玩意啥玩意啥玩意啥玩意啥玩</title>
-      <link href="/posts/255e503c.html"/>
-      <url>/posts/255e503c.html</url>
+      <title>Twikoo 表情包修改</title>
+      <link href="/posts/255e503ca.html"/>
+      <url>/posts/255e503ca.html</url>
       
       
       <categories>
           
-          <category> 教程 </category>
+          <category> 经验分享 </category>
           
       </categories>
       
@@ -119,6 +69,8 @@
             <tag> 🕍Hexo </tag>
             
             <tag> 🌸Butterfly </tag>
+            
+            <tag> 🎓教程 </tag>
             
         </tags>
       
@@ -134,7 +86,7 @@
       
       <categories>
           
-          <category> 教程 </category>
+          <category> 经验分享 </category>
           
       </categories>
       
@@ -144,29 +96,6 @@
             <tag> 🕍Hexo </tag>
             
             <tag> 🌸Butterfly </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hexo 自动部署到 Gitee</title>
-      <link href="/posts/26aeacb2.html"/>
-      <url>/posts/26aeacb2.html</url>
-      
-      
-      <categories>
-          
-          <category> 教程 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 🕍Hexo </tag>
             
         </tags>
       
